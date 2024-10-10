@@ -1,4 +1,4 @@
-# Aplicativo Mobile: Galeria Santalalla
+# Aplicativo Mobile: Galeria Santaolalla
 
 ## Integrantes
 - Filipe Custodio Goncalves
